@@ -1,0 +1,270 @@
+{
+    "personagens": [
+    {
+      "id": "01",
+      "nome": "Naruto Uzumaki",
+      "classificação": ["Ninja", "Jinchūriki do Nove-Caudas (Kurama)", "Hokage"],
+      "imagem": "https://static.wikia.nocookie.net/naruto/images/3/33/Naruto_Uzumaki_%28Parte_I_-_HD%29.png/revision/latest?cb=20160316113315&path-prefix=pt-br"
+    },
+    {
+      "id": "02",
+      "nome": "Sasuke Uchiha",
+      "classificação": ["Ninja", "Último membro do clã Uchiha", "Nukenin (ninja renegado)"],
+      "imagem": "https://static.wikia.nocookie.net/naruto/images/e/e7/Sasuke_epi_319.png/revision/latest?cb=20130629210647&path-prefix=pt-br"
+    },
+    {
+      "id": "03",
+      "nome": "Sakura Haruno",
+      "classificação": ["Ninja médica", "Membro do Time 7"],
+      "imagem": "https://static.wikia.nocookie.net/naruto/images/c/cf/Sakura_%28Naruto_Cl%C3%A1ssico%29.png/revision/latest?cb=20180211141243&path-prefix=pt-br"
+    },
+    {
+      "id": "04",
+      "nome": "Kakashi Hatake",
+      "classificação": ["Ninja", "Ex-líder do Time 7", "Hokage"],
+      "imagem": "https://static.wikia.nocookie.net/naruto/images/c/ca/Kakashi_Hatake_%28Infobox_-_Naruto%29.PNG/revision/latest?cb=20221012051237&path-prefix=pt-br"
+    },
+    {
+      "id": "05",
+      "nome": "Hinata Hyūga",
+      "classificação": ["Ninja", "Membro do clã Hyūga"],
+      "imagem": "https://static.wikia.nocookie.net/naruto/images/b/b1/Hinata-Genin.png/revision/latest?cb=20140328224439&path-prefix=pt-br"
+    },
+    {
+      "id": "06",
+      "nome": "Gaara",
+      "classificação": ["Ninja", "Jinchūriki do Shukaku (Uma-Cauda)", "Kazekage"],
+      "imagem": "https://static.wikia.nocookie.net/naruto/images/e/ef/Gaara_%28Parte_I%29.PNG/revision/latest?cb=20170917114859&path-prefix=pt-br"
+    },
+    {
+      "id": "07",
+      "nome": "Itachi Uchiha",
+      "classificação": ["Ninja", "Ex-membro da Akatsuki", "Anbu"],
+      "imagem": "https://static.wikia.nocookie.net/naruto/images/2/24/Itachi-Uchiha.png/revision/latest?cb=20181104200812&path-prefix=pt-br"
+    },
+    {
+      "id": "08",
+      "nome": "Shikamaru Nara",
+      "classificação": ["Ninja", "Estrategista", "Conselheiro do Hokage"],
+      "imagem": "https://static.wikia.nocookie.net/naruto/images/6/6c/Shikamaru_Cl%C3%A1ssico.PNG/revision/latest?cb=20191130212438&path-prefix=pt-br"
+    },
+    {
+      "id": "09",
+      "nome": "Rock Lee",
+      "classificação": ["Ninja", "Especialista em Taijutsu"],
+      "imagem": "https://static.wikia.nocookie.net/naruto/images/9/97/Rock_Lee_Part_I.png/revision/latest?cb=20160926212512&path-prefix=pt-br"
+    },
+    {
+      "id": "10",
+      "nome": "Orochimaru",
+      "classificação": ["Ninja renegado", "Ex-membro da Akatsuki", "Cientista"],
+      "imagem": "https://static.wikia.nocookie.net/naruto/images/0/07/Orochimaru.PNG/revision/latest?cb=20151006181637&path-prefix=pt-br"
+    },
+    {
+      "id": "11",
+      "nome": "Jiraiya",
+      "classificação": ["Ninja", "Sannin Lendário", "Autor"],
+      "imagem": "https://static.wikia.nocookie.net/naruto/images/7/73/Jiraiya_perfil.PNG/revision/latest?cb=20191203234503&path-prefix=pt-br"
+    },
+    {
+      "id": "12",
+      "nome": "Tsunade",
+      "classificação": ["Ninja", "Sannin Lendária", "Hokage"],
+      "imagem": "https://static.wikia.nocookie.net/naruto/images/e/e1/Apar%C3%AAncia_de_Tsunade.png/revision/latest?cb=20230831124219&path-prefix=pt-br"
+    },
+    {
+      "id": "13",
+      "nome": "Madara Uchiha",
+      "classificação": ["Ninja", "Co-fundador de Konoha", "Antagonista"],
+      "imagem": "https://static.wikia.nocookie.net/naruto/images/c/c3/Madara_Uchiha_%28Passado%29.png/revision/latest?cb=20230211174032&path-prefix=pt-br"
+    },
+    {
+      "id": "14",
+      "nome": "Obito Uchiha",
+      "classificação": ["Ninja", "Ex-membro da Akatsuki", "Antagonista"],
+      "imagem": "https://static.wikia.nocookie.net/naruto/images/2/28/Obito_%28Guerra%29.png/revision/latest?cb=20141219124512&path-prefix=pt-br"
+    },
+    {
+      "id": "15",
+      "nome": "Minato Namikaze",
+      "classificação": ["Ninja", "Quarto Hokage", "Pai de Naruto"],
+      "imagem": "https://static.wikia.nocookie.net/naruto/images/6/63/Minato_Namikaze_%28Infobox_-_Parte_I%29.PNG/revision/latest?cb=20141127124321&path-prefix=pt-br"
+    },
+    {
+      "id": "16",
+      "nome": "Kushina Uzumaki",
+      "classificação": ["Ninja", "Jinchūriki do Nove-Caudas (anterior)", "Mãe de Naruto"],
+      "imagem": "https://static.wikia.nocookie.net/naruto/images/e/e8/Kushina_Uzumaki.png/revision/latest?cb=20160112142559&path-prefix=pt-br"
+    },
+    {
+      "id": "17",
+      "nome": "Nagato (Pain)",
+      "classificação": ["Ninja", "Líder da Akatsuki", "Possuidor do Rinnegan"],
+      "imagem": "https://static.wikia.nocookie.net/naruto/images/b/bb/Nagato-Edo.PNG/revision/latest?cb=20141014222811&path-prefix=pt-br"
+    },
+    {
+      "id": "18",
+      "nome": "Killer Bee",
+      "classificação": ["Ninja", "Jinchūriki do Hachibi (Oito-Caudas)"],
+      "imagem": "https://static.wikia.nocookie.net/naruto/images/9/94/Killer_B_%28Boruto%29.png/revision/latest?cb=20181104202352&path-prefix=pt-br"
+    },
+    {
+      "id": "19",
+      "nome": "Hashirama Senju",
+      "classificação": ["Ninja", "Primeiro Hokage", "Co-fundador de Konoha"],
+      "imagem": "https://static.wikia.nocookie.net/naruto/images/b/b0/Shodai_Tsuchi_-_Sugest%C3%A3o_do_Rafael_-_II.jpg/revision/latest?cb=20141106201823&path-prefix=pt-br"
+    },
+    {
+      "id": "20",
+      "nome": "Tobirama Senju",
+      "classificação": ["Ninja", "Segundo Hokage"],
+      "imagem": "https://static.wikia.nocookie.net/naruto/images/c/c0/Tobirama_Senju_%28HD%29.png/revision/latest?cb=20160220124906&path-prefix=pt-br"
+    },
+        {
+        "id": "21",
+        "nome": "Neji Hyūga",
+        "classificação": ["Ninja", "Membro do clã Hyūga", "Gênio do Byakugan"],
+        "imagem": "https://static.wikia.nocookie.net/naruto/images/e/ee/Neji_%28Parte_I%29.png/revision/latest?cb=20200309134740&path-prefix=pt-br"
+    },
+    {
+        "id": "22",
+        "nome": "Tenten",
+        "classificação": ["Ninja", "Especialista em armas"],
+        "imagem": "https://static.wikia.nocookie.net/naruto/images/a/aa/Tenten_-_Fase_I.png/revision/latest?cb=20180226160720&path-prefix=pt-br"
+    },
+    {
+        "id": "23",
+        "nome": "Kiba Inuzuka",
+        "classificação": ["Ninja", "Mestre de cães ninja"],
+        "imagem": "https://static.wikia.nocookie.net/naruto/images/f/fb/Kiba_Inuzuka_%28Cl%C3%A1ssico%29.png/revision/latest?cb=20140823001353&path-prefix=pt-br"
+    },
+    {
+        "id": "24",
+        "nome": "Shino Aburame",
+        "classificação": ["Ninja", "Mestre de insetos"],
+        "imagem": "https://static.wikia.nocookie.net/naruto/images/f/f1/Shino_Aburame.PNG/revision/latest?cb=20141018074459&path-prefix=pt-br"
+    },
+    {
+        "id": "25",
+        "nome": "Ino Yamanaka",
+        "classificação": ["Ninja", "Especialista em técnicas mentais"],
+        "imagem": "https://static.wikia.nocookie.net/naruto/images/d/dd/Ino.png/revision/latest?cb=20180510114823&path-prefix=pt-br"
+    },
+    {
+        "id": "26",
+        "nome": "Chōji Akimichi",
+        "classificação": ["Ninja", "Especialista em técnicas de expansão corporal"],
+        "imagem": "https://static.wikia.nocookie.net/naruto/images/a/a0/Ch%C5%8Dji_Akimichi_%28Fase_I%29.png/revision/latest?cb=20180301103542&path-prefix=pt-br"
+    },
+    {
+        "id": "27",
+        "nome": "Asuma Sarutobi",
+        "classificação": ["Ninja", "Líder do Time 10", "Mestre de técnicas de vento"],
+        "imagem": "https://static.wikia.nocookie.net/naruto/images/4/48/Asuma_Sarutobi.png/revision/latest?cb=20130806211344&path-prefix=pt-br"
+    },
+    {
+        "id": "28",
+        "nome": "Kurenai Yūhi",
+        "classificação": ["Ninja", "Especialista em genjutsu"],
+        "imagem": "https://static.wikia.nocookie.net/naruto/images/9/9a/Kurenai_%28HD%29.png/revision/latest?cb=20170113120917&path-prefix=pt-br"
+    },
+    {
+        "id": "29",
+        "nome": "Guy Might",
+        "classificação": ["Ninja", "Mestre de Taijutsu", "Rival de Kakashi"],
+        "imagem": "https://static.wikia.nocookie.net/naruto/images/3/31/Might_Guy.png/revision/latest?cb=20200228191727&path-prefix=pt-br"
+    },
+    {
+        "id": "30",
+        "nome": "Deidara",
+        "classificação": ["Ninja renegado", "Membro da Akatsuki", "Especialista em explosões"],
+        "imagem": "https://static.wikia.nocookie.net/naruto/images/3/30/Deidara_%28Parte_II%29.PNG/revision/latest?cb=20150112171710&path-prefix=pt-br"
+    },
+    {
+        "id": "31",
+        "nome": "Sasori",
+        "classificação": ["Ninja renegado", "Membro da Akatsuki", "Mestre de marionetes"],
+        "imagem": "https://static.wikia.nocookie.net/naruto/images/7/7b/Sasori_%28Parte_II%29.PNG/revision/latest?cb=20240106204850&path-prefix=pt-br"
+    },
+    {
+        "id": "32",
+        "nome": "Kisame Hoshigaki",
+        "classificação": ["Ninja renegado", "Membro da Akatsuki", "Portador de Samehada"],
+        "imagem": "https://static.wikia.nocookie.net/naruto/images/c/c9/Kisame_Hoshigaki.png/revision/latest?cb=20220322130247&path-prefix=pt-br"
+    },
+    {
+        "id": "33",
+        "nome": "Hidan",
+        "classificação": ["Ninja renegado", "Membro da Akatsuki", "Imortal"],
+        "imagem": "https://static.wikia.nocookie.net/naruto/images/d/db/Hidan_%28Infobox_-_Anime%29.PNG/revision/latest?cb=20230826164757&path-prefix=pt-br"
+    },
+    {
+        "id": "34",
+        "nome": "Kakuzu",
+        "classificação": ["Ninja renegado", "Membro da Akatsuki", "Manipulador de corações"],
+        "imagem": "https://static.wikia.nocookie.net/naruto/images/a/a3/Kakuzu_%28Shippuden%29.png/revision/latest?cb=20140825181534&path-prefix=pt-br"
+    },
+    {
+        "id": "35",
+        "nome": "Zetsu",
+        "classificação": ["Ninja renegado", "Membro da Akatsuki", "Espião"],
+        "imagem": "https://static.wikia.nocookie.net/naruto/images/0/0e/Zetsu_Negro.PNG/revision/latest?cb=20140619053903&path-prefix=pt-br"
+    },
+    {
+        "id": "36",
+        "nome": "Konan",
+        "classificação": ["Ninja renegada", "Membro da Akatsuki", "Especialista em técnicas de papel"],
+        "imagem": "https://static.wikia.nocookie.net/naruto/images/b/b4/Konan_%28Parte_II%29.png/revision/latest?cb=20151220140904&path-prefix=pt-br"
+    },
+    {
+        "id": "37",
+        "nome": "Yahiko",
+        "classificação": ["Ninja", "Fundador da Akatsuki (original)"],
+        "imagem": "https://static.wikia.nocookie.net/naruto/images/8/8e/Yahiko_%28Passado%29.png/revision/latest?cb=20200217003145&path-prefix=pt-br"
+    },
+    {
+        "id": "38",
+        "nome": "Hiruzen Sarutobi",
+        "classificação": ["Ninja", "Terceiro Hokage", "Professor dos Sannin"],
+        "imagem": "https://static.wikia.nocookie.net/naruto/images/4/4e/Hiruzen.png/revision/latest?cb=20170206020159&path-prefix=pt-br"
+    },
+    {
+        "id": "39",
+        "nome": "Danzo Shimura",
+        "classificação": ["Ninja", "Líder da Raiz", "Antagonista"],
+        "imagem": "https://static.wikia.nocookie.net/naruto/images/0/08/Danzo_Shimura.png/revision/latest?cb=20130505010755&path-prefix=pt-br"
+    },
+    {
+        "id": "40",
+        "nome": "Kabuto Yakushi",
+        "classificação": ["Ninja renegado", "Espião", "Especialista em técnicas médicas"],
+        "imagem": "https://static.wikia.nocookie.net/naruto/images/4/47/Kabuto_Yakushi_%28Infobox_-_Naruto_Shipp%C5%ABden%29.PNG/revision/latest?cb=20230409231605&path-prefix=pt-br"
+    },
+    {
+        "id": "41",
+        "nome": "Itachi Uchiha",
+        "classificação": ["Ninja renegado", "Membro da Akatsuki", "Portador do Mangekyō Sharingan"],
+        "imagem": "https://static.wikia.nocookie.net/naruto/images/2/24/Itachi-Uchiha.png/revision/latest?cb=20181104200812&path-prefix=pt-br"
+    },
+    {
+        "id": "42",
+        "nome": "Pain (Nagato)",
+        "classificação": ["Ninja renegado", "Líder da Akatsuki", "Possuidor do Rinnegan"],
+        "imagem": "https://static.wikia.nocookie.net/narutofans/images/1/1a/Pain.jpg/revision/latest?cb=20111227192513&path-prefix=pt"
+    },
+    {
+        "id": "43",
+        "nome": "Tobi (Obito Uchiha)",
+        "classificação": ["Ninja renegado", "Membro da Akatsuki", "Manipulador do Plano Olho da Lua"],
+        "imagem": "https://naruto.fandom.com/pt-br/wiki/Arquivo:Tobi_declara_Guerra.png"
+    },
+    {
+        "id": "44",
+        "nome": "Jūzō Biwa",
+        "classificação": ["Ninja renegado", "Ex-membro da Akatsuki", "Portador da Espada Kubikiribōchō"],
+        "imagem": "https://static.wikia.nocookie.net/naruto/images/f/f7/J%C5%ABz%C5%8D_Biwa_%28Anime%29.PNG/revision/latest?cb=20150710052949&path-prefix=pt-br"
+    }
+    
+]
+
+}
